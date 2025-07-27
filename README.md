@@ -10,13 +10,8 @@ This project involved using a `passive buzzer` and a `potentiometer`, which was 
 
 ## Images
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/model.png" width="300px"/>
-    </td>
-    <td align="center">
-      <img src="images/wiring.JPG" width="300px"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="images/model.png" width="48%" style="vertical-align: middle;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/wiring.JPG" width="48%" style="vertical-align: middle;"/>
+</div>
