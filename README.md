@@ -1,4 +1,4 @@
-# Arduino Project Template
+# Passive Buzzer Project
 
 This project involved using a `passive buzzer` and a `potentiometer`, which was used to control the tone of the buzzer using a delay time. I modelled the function by hand and then used my formula to convert the `potVal` to a buzzer delay time. 
 
