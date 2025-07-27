@@ -13,7 +13,10 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   readVal = analogRead(potPin);
-  delayTime = ((9940/1023) * readVal) + 60;
-  
-  digitalWrite()
+  delayTime = ((9940./1023.) * readVal) + 60;
+  Serial.println(delayTime);
+  digitalWrite(buzzerPin, HIGH);
+  delayMicroseconds(delayTime);
+  digitalWrite(buzzerPin, LOW);
+  delayMicroseconds(delayTime);
 }
