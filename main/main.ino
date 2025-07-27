@@ -1,7 +1,7 @@
 int buzzerPin = 7;
 int potPin = A7;
 int readVal;
-int delayTime;
+float delayTime;
 
 void setup() {
   // put your setup code here, to run once:
@@ -13,6 +13,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   readVal = analogRead(potPin);
-  Serial.println(readVal);
-  delay(500);
+  delayTime = ((9940/1023) * readVal) + 60;
+  
+  digitalWrite()
 }
