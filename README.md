@@ -10,4 +10,6 @@ This project involved using a `passive buzzer` and a `potentiometer`, which was 
 
 ## Images
 
+<img src="images/math-model.pdf">
 <img src="images/wiring.JPG">
+
