@@ -12,5 +12,6 @@ This project involved using a `passive buzzer` and a `potentiometer`, which was 
 
 <p align="center">
   <img src="images/model.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="images/wiring.JPG" width="45%">
 </p>
